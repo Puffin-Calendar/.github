@@ -1,6 +1,6 @@
 # Puffin Calendar
 
-**Your week, planned for you.**
+**Your life, planned for you.**
 
 Puffin plans your week around your calendar, your work, and your energy. It's made by **Puffin Studios, Inc.**
 
