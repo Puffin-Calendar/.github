@@ -2,7 +2,7 @@
 
 **Your life, planned for you.**
 
-Puffin plans your week around your calendar, your work, and your energy. It's made by **Puffin Studios, Inc.**
+Puffin plans your life around your calendar, your work, and your energy. It's made by **Puffin Studios, Inc.**
 
 [puffincalendar.com](https://puffincalendar.com)
 
